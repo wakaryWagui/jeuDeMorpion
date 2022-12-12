@@ -1,0 +1,6 @@
+INDEX VERSION 1.131+C:\Users\wdouc\eclipse-workspace\Fil_RougeFinal\file_rouge\src\.metadata\.plugins\org.eclipse.jdt.core
+1067094681.index
+1631285269.index
+1865797976.index
+418144002.index
+2115155706.index
